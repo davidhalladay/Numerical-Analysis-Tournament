@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import matplotlib.path as mpath
 import matplotlib.animation as animation
 
-import player_template as P1
-import player_template as P2
+import hw3 as P1
+import player_teacher as P2
 
 print('Imported Player 1:')
 player1 = P1.player_module()
